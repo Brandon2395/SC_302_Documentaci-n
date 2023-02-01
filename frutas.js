@@ -5,3 +5,8 @@ let frutas = ["manzana", "plátano", "pera", "mango"];
 function imprimirFrutas(){
     console.log(frutas);
 }
+
+// Desarrollador 3 
+function agregarFruta(fruta) { 
+    frutas.push(fruta); 
+} 
