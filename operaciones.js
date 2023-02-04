@@ -18,3 +18,12 @@ function division(a, b) {
 function potencia(base, exponente) { 
     return Math.pow(base, exponente); 
 } 
+
+// Desarrollador 2
+function raizCuadrada(n) {
+    return Math.sqrt(n);
+}
+// Desarrollador 4
+function porcentaje(n, porcentaje) {
+    return (n * porcentaje) / 100;
+}
